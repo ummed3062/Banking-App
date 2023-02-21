@@ -1,0 +1,9 @@
+server:
+  port: 8761
+  
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false    #This ser.reg. not register with self
+    fetch-registry: false          #Other ser.reg. not fetch data of this reg. as a client
