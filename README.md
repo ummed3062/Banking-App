@@ -68,4 +68,4 @@ Contribution Guidelines
             Submit a pull request with a clear description of your changes.
 
 Contact Information
-      If you have any questions or issues, please contact the developer at u.
+      If you have any questions or issues, please contact the developer at ummedsingh3062000@gmail.com.
